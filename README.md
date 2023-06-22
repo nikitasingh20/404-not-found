@@ -61,5 +61,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Portfolio [your-portfolio.com](https://{https://linktr.ee/nikita0820})
-- GitHub [@your-nikitasingh20](https://{https://github.com/nikitasingh20})
+- Portfolio [portfolio](https://linktr.ee/nikita0820)
+- GitHub [@nikitasingh20](https://github.com/nikitasingh20)
