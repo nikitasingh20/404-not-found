@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404-Not-Found}</h1>
+<h1 align="center">404-Not-Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://celadon-croquembouche-fd2d0b.netlify.app/}">
+    <a href="https://https://celadon-croquembouche-fd2d0b.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/nikitasingh20/404-not-found/tree/main">
       Solution
     </a>
     <span> | </span>
